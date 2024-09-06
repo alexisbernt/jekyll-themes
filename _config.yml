@@ -47,7 +47,8 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: truetheme: jekyll-theme-minimal
+      read_time: true
+      theme: jekyll-theme-minimal
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # cayman , time-machine
